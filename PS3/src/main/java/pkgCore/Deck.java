@@ -51,6 +51,7 @@ public class Deck {
 			return 0;
 		else
 			return 1;
+		
 	}
 	
 	
