@@ -47,8 +47,7 @@ public class Deck {
 	public Card count(Card) {
 		if  (Card==cardsInDeck)
 			return 0;
-		else
-			return 1;
+		else 1;
 		
 	}
 	
