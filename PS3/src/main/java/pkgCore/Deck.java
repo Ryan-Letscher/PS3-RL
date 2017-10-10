@@ -32,8 +32,6 @@ public class Deck {
 	
 	//TODO: Write an overloaded Draw method to Draw a card of a given eRank
 	public Card Draw(eRank) {
-		return cardsInDeck;
-	}
 
 	//TODO: Write a method that will return the number of a given eSuit left in the deck.
 	public  Card count(eSuit) {
